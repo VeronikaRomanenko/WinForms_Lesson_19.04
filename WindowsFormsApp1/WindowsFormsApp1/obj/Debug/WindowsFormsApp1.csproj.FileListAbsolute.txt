@@ -1,0 +1,9 @@
+D:\Романенко Вероника\WinForm_Lesson_19.04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Романенко Вероника\WinForm_Lesson_19.04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Романенко Вероника\WinForm_Lesson_19.04\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Романенко Вероника\WinForm_Lesson_19.04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Романенко Вероника\WinForm_Lesson_19.04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Романенко Вероника\WinForm_Lesson_19.04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Романенко Вероника\WinForm_Lesson_19.04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Романенко Вероника\WinForm_Lesson_19.04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Романенко Вероника\WinForm_Lesson_19.04\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
